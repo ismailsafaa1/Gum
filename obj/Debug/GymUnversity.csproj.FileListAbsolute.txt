@@ -1,0 +1,40 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\bin\Debug\GymUnversity.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\bin\Debug\GymUnversity.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\obj\Debug\GymUnversity.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\obj\Debug\GymUnversity.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\obj\Debug\GymUnversity.Properties.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\obj\Debug\GymUnversity.csproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\obj\Debug\GymUnversity.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\GymUnversity\obj\Debug\GymUnversity.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.Employees.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.Traines.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\bin\Debug\GymUnversity.exe
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\bin\Debug\GymUnversity.pdb
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.TSupplements.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.Login.resources
+C:\Users\lenovo\Documents\Visual Studio 2012\Projects\GymUnversity\obj\Debug\GymUnversity.Main.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.exe
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.pdb
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.Employees.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.Login.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.Main.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.Traines.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.Properties.Resources.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.TSupplements.resources
+C:\Users\lenovo\Desktop\GymUnversity\obj\Debug\GymUnversity.csproj.GenerateResource.Cache
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.exe
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.pdb
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.Main.resources
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.Traines.resources
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.Properties.Resources.resources
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.csproj.GenerateResource.Cache
+C:\Users\lenovo\source\repos\GymUnversity\bin\Debug\GymUnversity.exe
+C:\Users\lenovo\source\repos\GymUnversity\bin\Debug\GymUnversity.pdb
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\GymUnversity\obj\Debug\GymUnversity.csproj.CoreCompileInputs.cache

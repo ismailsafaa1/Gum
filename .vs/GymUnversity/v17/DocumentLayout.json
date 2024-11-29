@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|c:\\users\\lenovo\\source\\repos\\gymunversity\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\traines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:traines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\traines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:traines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\clstrainees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:clstrainees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|C:\\Users\\lenovo\\source\\repos\\GymUnversity\\trainees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{651E1AC3-E84F-4E36-9A2C-3E41D3EB174B}|GymUnversity.csproj|solutionrelative:trainees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Main.Designer.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Main.Designer.cs",
+              "RelativeToolTip": "Main.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAewDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:45:44.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:45:35.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:53:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T19:17:04.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Traines.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Traines.cs",
+              "RelativeDocumentMoniker": "Traines.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Traines.cs",
+              "RelativeToolTip": "Traines.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAGsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:44:47.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Traines.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Traines.cs",
+              "RelativeDocumentMoniker": "Traines.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Traines.cs [Design]",
+              "RelativeToolTip": "Traines.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:42:36.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsTrainees.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\clsTrainees.cs",
+              "RelativeDocumentMoniker": "clsTrainees.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\clsTrainees.cs",
+              "RelativeToolTip": "clsTrainees.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwFUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:53:17.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trainees.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Trainees.cs",
+              "RelativeDocumentMoniker": "Trainees.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\Trainees.cs",
+              "RelativeToolTip": "Trainees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:48:56.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\GymUnversity\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA+wBEAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:00:29.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
